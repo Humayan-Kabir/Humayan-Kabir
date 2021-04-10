@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Humayan-Kabir, Software Engineer at Samsung
 - 👀 I’m interested in problem solving and app development
-- 🌱 I’m currently learning swift and iOS development
-- 💞️ I’m looking to collaborate on swift project
+- 🌱 I’m currently working on Android, learning swift and iOS development
+- 💞️ I’m looking to collaborate on android and iOS project
 - 📫 you can reach me via humayan7711@gmail.com
 
 <!---
