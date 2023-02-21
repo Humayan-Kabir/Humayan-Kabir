@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Humayan-Kabir, Software Engineer at Samsung | Android | Kotlin | Java
-- 👀 I’m interested in problem solving and app development
-- 🌱 I’m currently working on Android, learning swift and iOS development
+- 👋 Hey, I’m @Humayan Software Engineer at Samsung.
+- 👀 Working as Android Developer in Samsung Account Applicaion Team (Phone + WearOS) since 2020.
+- 🌱 Proficient in coding with Kotlin, Java, C++.
 - 💞️ I’m looking to collaborate on android and iOS project
 - 📫 you can reach me via humayan7711@gmail.com
 
