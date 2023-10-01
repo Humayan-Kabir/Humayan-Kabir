@@ -1,7 +1,9 @@
-- 👋 Hey, I’m @Humayan, Software Engineer at Samsung.
-- 👀 Working as Android Developer in Samsung Account Team (Phone + WearOS) since 2020.
-- 🌱 Proficient in coding with Kotlin, Java, C++.
-- 💞️ I’m looking to collaborate on android and iOS project
+- 👋 Greetings! I'm Humayan, Senior Software Engineer at Samsung specializing in C++, Java, Kotlin (Android).
+- 🌟 Committed to crafting elegant solutions and embracing best practices.
+- 🚀 Seeking collaborations in software engineering and open source projects.
+- 💬 Reach out to discuss tech, share ideas, or explore collaborations.
+- Let's code, innovate, and make a lasting impact on the world of software engineering. 🌍
+
 - 📫 you can reach me via humayan7711@gmail.com
 
 <!---
