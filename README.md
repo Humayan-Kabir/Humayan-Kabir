@@ -2,10 +2,10 @@
 
 ### Technologies and Languages
 
-![Android SDK](https://img.shields.io/badge/Android%20SDK-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Kotlin](https://img.shields.io/badge/Kotlin-e0c3c1?style=flat-square&logo=kotlin&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-b86e69?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-e0c3c1?style=flat-square&logo=kotlin&logoColor=black)
+![Android SDK](https://img.shields.io/badge/Android%20SDK-blue)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Jetpack](https://img.shields.io/badge/Jetpack-e33977?style=flat-square&logo=retrofit&logoColor=black)
 ![Navigation Component](https://img.shields.io/badge/Navigation_Component-b34d8d?style=flat-square&logo=retrofit&logoColor=black)
