@@ -23,7 +23,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-72b380?style=flat-square&logo=retrofit&logoColor=black)
 
-Android Developer | Sr. Engineer @Samsung 📱 | 4+ Yrs XP 🚀 | Kotlin, Java, C++ Pro 🛠️ | Passion for User-Centric Design 💡 | Bookworm & Music Lover 📚🎵 | Let's Code Awesome! 💻 #BackendDev #AndroidDev #TechEnthusiast
+Sr. Engineer @Samsung 📱 | 4+ Yrs XP 🚀 | Java, Kotlin, Spring Boot, C++ Pro 🛠️ | Passion for User-Centric Design 💡 | Bookworm & Music Lover 📚🎵 | Let's Code Awesome! 💻 #BackendDev #AndroidDev #TechEnthusiast
 
 ### Where to find me
 
