@@ -1,8 +1,9 @@
 -<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 ### Technologies and Languages
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-b86e69?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-e0c3c1?style=flat-square&logo=kotlin&logoColor=black)
 ![Android SDK](https://img.shields.io/badge/Android%20SDK-blue)
