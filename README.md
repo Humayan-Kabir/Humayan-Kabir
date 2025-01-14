@@ -2,14 +2,8 @@
 
 > Software Engineer III [@DataTree](https://linkedin.com/in/humayan-kabir) • Ex-Samsung • 5+ Years of Building Scalable Systems
 
-<p align="left">
-  <a href="https://linkedin.com/in/humayan-kabir">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/humayan_kabir">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
+[![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://linkedin.com/in/humayan-kabir)
+[![](https://img.shields.io/badge/-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/humayan_kabir)
 
 ## 🔧 Technologies & Tools
 
@@ -48,4 +42,3 @@
 - Full Product Development: From concept to deployment, building scalable solutions end-to-end
 - System Architecture: Designing robust and maintainable software architectures
 - Problem Solving: Strong algorithmic skills and competitive programming background
-
