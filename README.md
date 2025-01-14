@@ -18,13 +18,25 @@
 ![](https://img.shields.io/badge/Queue-Kafka-informational?style=flat&logo=apache-kafka&color=231F20)
 ![](https://img.shields.io/badge/Queue-RabbitMQ-informational?style=flat&logo=rabbitmq&color=FF6600)
 
-### Cloud & Infrastructure
+### AWS Cloud
+![](https://img.shields.io/badge/AWS-EC2-informational?style=flat&logo=amazon-aws&color=FF9900)
 ![](https://img.shields.io/badge/AWS-Lambda-informational?style=flat&logo=aws-lambda&color=FF9900)
+![](https://img.shields.io/badge/AWS-S3-informational?style=flat&logo=amazon-s3&color=569A31)
+![](https://img.shields.io/badge/AWS-CloudFront-informational?style=flat&logo=amazon-aws&color=FF9900)
+![](https://img.shields.io/badge/AWS-Route53-informational?style=flat&logo=amazon-aws&color=FF9900)
+![](https://img.shields.io/badge/AWS-ECS-informational?style=flat&logo=amazon-ecs&color=FF9900)
+![](https://img.shields.io/badge/AWS-EKS-informational?style=flat&logo=amazon-eks&color=FF9900)
 ![](https://img.shields.io/badge/AWS-DynamoDB-informational?style=flat&logo=amazon-dynamodb&color=4053D6)
+![](https://img.shields.io/badge/AWS-RDS-informational?style=flat&logo=amazon-rds&color=527FFF)
+![](https://img.shields.io/badge/AWS-ElastiCache-informational?style=flat&logo=amazon-aws&color=FF9900)
 ![](https://img.shields.io/badge/AWS-SQS-informational?style=flat&logo=amazon-sqs&color=FF4F8B)
 ![](https://img.shields.io/badge/AWS-SNS-informational?style=flat&logo=amazon-sns&color=FF4F8B)
+
+### DevOps & Tools
 ![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&color=2496ED)
 ![](https://img.shields.io/badge/Container-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5)
+![](https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&logo=github-actions&color=2088FF)
+![](https://img.shields.io/badge/Monitor-Grafana-informational?style=flat&logo=grafana&color=F46800)
 
 ### Databases
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=4169E1)
