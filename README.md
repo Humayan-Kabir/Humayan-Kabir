@@ -37,7 +37,7 @@
 ![](https://img.shields.io/badge/State-Redux_Saga-informational?style=flat&logo=redux-saga&color=999999)
 ![](https://img.shields.io/badge/Style-MaterialUI-informational?style=flat&logo=mui&color=007FFF)
 
-## 🚀 Core Expertise
+## 🎯 Core Expertise
 
 - Full Product Development: From concept to deployment, building scalable solutions end-to-end
 - System Architecture: Designing robust and maintainable software architectures
