@@ -1,25 +1,51 @@
--<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# 👨‍💻 Hi, I'm Humayan
 
-### Technologies and Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=Spring-Security&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Rest API](https://img.shields.io/badge/Rest_Api-e3d42d?style=for-the-badge&logo=retrofit&logoColor=black)
-![JUnit](https://img.shields.io/badge/JUnit-e33977?style=for-the-badge&logo=retrofit&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Android SDK](https://img.shields.io/badge/Android%20SDK-blue?style=for-the-badge)
+> Software Engineer III [@DataTree](https://linkedin.com/in/humayan-kabir) • Ex-Samsung • 5+ Years of Building Scalable Systems
 
-Sr. Engineer @Samsung 📱 | 4+ Yrs XP 🚀 | Java, Kotlin, Spring Boot, C++ Pro 🛠️ | Passion for User-Centric Design 💡 | Bookworm & Music Lover 📚🎵 | Let's Code Awesome! 💻 #BackendDev #AndroidDev #TechEnthusiast
+<p align="left">
+  <a href="https://linkedin.com/in/humayan-kabir">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/humayan_kabir">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
-### Where to find me
+## 🔧 Technologies & Tools
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humayan7711/) 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/humayan7711)
-<!---
-Humayan-Kabir/Humayan-Kabir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Backend Development
+![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&color=007396)
+![](https://img.shields.io/badge/Lang-Kotlin-informational?style=flat&logo=kotlin&color=0095D5)
+![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
+![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&color=6DB33F)
+![](https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=nestjs&color=E0234E)
+![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&color=000000)
+![](https://img.shields.io/badge/Cache-Redis-informational?style=flat&logo=redis&color=DC382D)
+![](https://img.shields.io/badge/Queue-Kafka-informational?style=flat&logo=apache-kafka&color=231F20)
+![](https://img.shields.io/badge/Queue-RabbitMQ-informational?style=flat&logo=rabbitmq&color=FF6600)
+
+### Cloud & Infrastructure
+![](https://img.shields.io/badge/AWS-Lambda-informational?style=flat&logo=aws-lambda&color=FF9900)
+![](https://img.shields.io/badge/AWS-DynamoDB-informational?style=flat&logo=amazon-dynamodb&color=4053D6)
+![](https://img.shields.io/badge/AWS-SQS-informational?style=flat&logo=amazon-sqs&color=FF4F8B)
+![](https://img.shields.io/badge/AWS-SNS-informational?style=flat&logo=amazon-sns&color=FF4F8B)
+![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&color=2496ED)
+![](https://img.shields.io/badge/Container-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5)
+
+### Databases
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=4169E1)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
+![](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&color=4053D6)
+
+### Frontend Development
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/State-Redux-informational?style=flat&logo=redux&color=764ABC)
+![](https://img.shields.io/badge/State-Redux_Saga-informational?style=flat&logo=redux-saga&color=999999)
+![](https://img.shields.io/badge/Style-MaterialUI-informational?style=flat&logo=mui&color=007FFF)
+
+## 🚀 Core Expertise
+
+- Full Product Development: From concept to deployment, building scalable solutions end-to-end
+- System Architecture: Designing robust and maintainable software architectures
+- Problem Solving: Strong algorithmic skills and competitive programming background
+
