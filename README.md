@@ -2,7 +2,7 @@
 
 > Software Engineer III [@DataTree](https://linkedin.com/in/humayan-kabir) • Ex-Samsung • 5+ Years of Building Scalable Systems
 
-[![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://linkedin.com/in/humayan-kabir)
+[![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://linkedin.com/in/humayan7711)
 [![](https://img.shields.io/badge/-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/humayan_kabir)
 
 ## 🔧 Technologies & Tools
